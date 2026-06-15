@@ -23,37 +23,15 @@
 
 ## 기술 스택
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-### Backend / DB
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Dev & Infra
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 ### Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### AI Tools
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=OpenAI&logoColor=white)
 
 ---
 ## 프로젝트
 
 ### 🖥️ Comlapse — AI 학습 기록 
 > 개인 프로젝트 | **2026 ~ 제작 중**
-
-공부 모드를 켜는 순간부터 컴퓨터 활동을 자동 기록하고, 학습 세션을 타임랩스 영상으로 변환 및 AI가 요약·질의응답해주는 Windows 데스크탑 앱. 
-
-- Electron + React 기반 트레이 데몬 설계
-- 외부 + Local API 연동 세션 자동 요약 및 자연어 질의응답
-- FFmpeg 타임랩스 합성 + 활동 타임라인 오버레이
-- Supabase 기반 Pro 플랜 동기화 및 결제 설계
 
 ---
 
