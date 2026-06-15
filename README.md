@@ -16,20 +16,6 @@
 
 ---
 
-## 기술 스택
-
-### Language
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-## 프로젝트
-
-### 🖥️ Comlapse — AI 학습 기록 
-> 개인 프로젝트 | **2026 ~ 제작 중**
-
----
-
 ## 자격증
 
 <div align="center">
